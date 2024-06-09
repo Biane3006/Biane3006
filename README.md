@@ -8,6 +8,11 @@
 
 #### I'm a Computer Science student at Mulawarman University 👨🏻‍🎓. I have a keen interest and passion for data science📊, which makes me very enthusiastic about the fields of Machine Learning 🤖 and Data Analysis📉📈.
 
+### 📊 Github Stats
+<a href='#'>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biane3006&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biane3006&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+</a>
 <br>
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -61,5 +66,6 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
   </p>
+</details>
 
 <br>
